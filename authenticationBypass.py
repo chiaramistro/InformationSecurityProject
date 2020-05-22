@@ -34,7 +34,7 @@ appID = ""
 adminID = ""
 kidDirectedSite = "0"
 image = ""
-codeSnipped = "< =php+echo+fb_like_button();+?>"
+codeSnipped = "<=php+echo+fb_like_button();+?>"
 before = "before"
 url = "url"
 #language settings
