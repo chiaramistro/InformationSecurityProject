@@ -1,5 +1,6 @@
-#exploit program
-#run it with python by executing: python attack.py
+#exploit program for the CSRF vulnerability
+#before running, install selenium library by executing: pip install selenium
+#run it with Python by executing: python attack.py
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
